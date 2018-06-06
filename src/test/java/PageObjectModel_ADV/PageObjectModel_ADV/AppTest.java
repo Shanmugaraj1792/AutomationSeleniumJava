@@ -45,4 +45,12 @@ public class AppTest
     {
         //assertTrue( true );
     }	
+	
+    /**
+     * New method from dev :-)
+     */
+    public void test_App_dev_new()
+    {
+        //assertTrue( true );
+    }		
 }
