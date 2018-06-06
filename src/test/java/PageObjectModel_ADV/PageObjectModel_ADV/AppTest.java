@@ -19,6 +19,8 @@ public class AppTest
     {
         super( testName );
     }
+	
+
 
     /**
      * @return the suite of tests being tested
@@ -35,4 +37,12 @@ public class AppTest
     {
         assertTrue( true );
     }
+	
+    /**
+     * New method from dev :-)
+     */
+    public void test_App_dev()
+    {
+        //assertTrue( true );
+    }	
 }
